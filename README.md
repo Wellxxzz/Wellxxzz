@@ -2,13 +2,13 @@
 
 ## Sobre mim
 
-Sou Wellington Rodrigues, atualmente em transição de carreira para a área de dados. Com formação em administração, pós em engenharia de produção e atualmente me especializando em análise de dados, ciência de dados e machine learning, estou desenvolvendo habilidades para transformar dados em insights acionáveis.
+Sou Wellington Rodrigues, atualmente em transição de carreira para a área de dados. Com formação em administração, pós em engenharia de produção e atualmente me especializando em análise e ciência de dados, estou desenvolvendo habilidades para transformar dados em insights acionáveis.
 
 ## Habilidades
 
 - *Linguagens de Programação*: Python, R, SQL
 - *Ferramentas*:  Tableau, Power BI
-- *Técnicas*: Análise Exploratória de Dados (EDA), Modelagem Preditiva, Visualização de Dados
+- *Técnicas*: EDA, ETL, Modelagem Preditiva, Visualização de Dados
 
 ## Projetos
 
